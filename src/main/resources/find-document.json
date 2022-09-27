@@ -1,0 +1,7 @@
+{
+  "q": "Mitrovic scores",
+  "searchableAttributes": ["Description"],
+  "limit": 10,
+  "showHighlights": true,
+  "filter": "*:*"
+}
